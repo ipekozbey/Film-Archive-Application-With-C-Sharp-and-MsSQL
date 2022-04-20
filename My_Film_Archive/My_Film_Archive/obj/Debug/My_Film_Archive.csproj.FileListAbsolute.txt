@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\My_Film_Archive\My_Film_Archive\obj\Debug\My_Film_Archive.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\My_Film_Archive\My_Film_Archive\obj\Debug\My_Film_Archive.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\My_Film_Archive\My_Film_Archive\obj\Debug\My_Film_Archive.TxtFilmName.resources
+C:\Users\LENOVO\source\repos\My_Film_Archive\My_Film_Archive\obj\Debug\My_Film_Archive.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\My_Film_Archive\My_Film_Archive\obj\Debug\My_Film_Archive.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\My_Film_Archive\My_Film_Archive\obj\Debug\My_Film_Archive.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\My_Film_Archive\My_Film_Archive\bin\Debug\My_Film_Archive.exe.config
+C:\Users\LENOVO\source\repos\My_Film_Archive\My_Film_Archive\bin\Debug\My_Film_Archive.exe
+C:\Users\LENOVO\source\repos\My_Film_Archive\My_Film_Archive\bin\Debug\My_Film_Archive.pdb
+C:\Users\LENOVO\source\repos\My_Film_Archive\My_Film_Archive\obj\Debug\My_Film_Archive.exe
+C:\Users\LENOVO\source\repos\My_Film_Archive\My_Film_Archive\obj\Debug\My_Film_Archive.pdb
